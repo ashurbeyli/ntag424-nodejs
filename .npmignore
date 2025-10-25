@@ -1,0 +1,35 @@
+# Source files
+src/
+tests/
+*.ts
+tsconfig.json
+jest.config.js
+
+# Development files
+.github/
+.eslintrc.js
+.prettierrc
+.prettierignore
+audit-ci.json
+
+# Documentation
+*.md
+!README.md
+
+# Examples and samples
+examples/
+samples/
+
+# Backup files
+*.backup
+*.bak
+
+# Logs
+*.log
+logs/
+
+# Coverage
+coverage/
+
+# Environment
+.env*
